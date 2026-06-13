@@ -51,3 +51,16 @@ Open [http://localhost:3000](http://localhost:3000).
 - Download files directly from the browser
 - Delete files from both the bucket and browser history
 - Uploaded files persist in localStorage across page navigations
+
+
+---
+
+nermalcat69 (arjunaditya.xyz) is working on graycup.org / graycup.com
+
+Buy coffee or tea:
+https://graycup.in
+
+Bulk coffee or tea:
+https://b2b.graycup.in
+https://bulkgreencoffee.com
+https://bulkctc.com
